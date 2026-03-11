@@ -38,14 +38,12 @@ Cálculos de áreas e volumes sem o uso de herança, focando em métodos funcion
 - Esfera: Cálculo de volume ($V = \frac{4}{3} \cdot \pi \cdot r^3$).
 - Uso da Classe Math: Aplicação de Math.PI para precisão nos resultados.
 
-🛠️ Tecnologias Utilizadas
-Linguagem: C#
-
-Plataforma: .NET
-
-Conceitos Aplicados: Classes, Objetos, Atributos, Métodos, Construtores, Getters/Setters, Lógica Matemática.
-
-🎓 Aprendizado Adquirido
+## 🛠️ Tecnologias Utilizadas
+1. Linguagem: C#
+2. Plataforma: .NET
+3. Conceitos Aplicados: Classes, Objetos, Atributos, Métodos, Construtores, Getters/Setters, Lógica Matemática.
+ 
+### Aprendizado Adquirido
 Ao concluir estes exercícios, foi possível compreender como a orientação a objetos facilita a organização de sistemas complexos, permitindo que cada "parte" do software (como um Ingresso ou uma Matrícula) seja independente, segura e fácil de manter.
 
 Desenvolvido por João Pedro Barboza Rigoto Ferreira 👋
