@@ -1,4 +1,4 @@
-# Exercícios de Programação Orientada a Objetos em C# 🚀
+# Exercícios de Programação Orientada a Objetos em C#
 - Este repositório contém uma série de exercícios práticos desenvolvidos para consolidar os fundamentos da Programação Orientada a Objetos (POO) utilizando a linguagem C#. O conteúdo abrange desde conceitos básicos até a manipulação de estados, construtores e cálculos matemáticos.
 
 ## 📌 Conteúdo do Repositório
